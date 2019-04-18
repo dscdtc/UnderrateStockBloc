@@ -1,5 +1,5 @@
 # Custom
-Doc/
+Doc/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
